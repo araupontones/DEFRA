@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T09:42:44.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.1.0" etag="v-mgRWzYJZBhHwdd7fgp" type="github"><diagram id="jtbX2zKAwlUEF0Mly0xF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-21T09:58:40.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="CnfHYtLNHdZylUsv32t3" version="17.1.0" type="github">
+  <diagram id="jtbX2zKAwlUEF0Mly0xF" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-26" value="" style="group;sketch=1;shadow=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="90" width="26.67" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="4fv0T7YaDPXyuP-KSVoV-26">
+          <mxGeometry y="50" width="26.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="4fv0T7YaDPXyuP-KSVoV-26">
+          <mxGeometry y="100" width="26.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-22" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="4fv0T7YaDPXyuP-KSVoV-26">
+          <mxGeometry y="150" width="26.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-23" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="4fv0T7YaDPXyuP-KSVoV-26">
+          <mxGeometry y="200" width="26.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-24" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="4fv0T7YaDPXyuP-KSVoV-26">
+          <mxGeometry y="250" width="26.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-25" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="4fv0T7YaDPXyuP-KSVoV-26">
+          <mxGeometry width="26.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-28" value="" style="shape=datastore;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="4fv0T7YaDPXyuP-KSVoV-25" target="4fv0T7YaDPXyuP-KSVoV-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="sourcePoint" />
+            <mxPoint x="610" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="4fv0T7YaDPXyuP-KSVoV-1" target="4fv0T7YaDPXyuP-KSVoV-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="106.67000000000007" y="130" as="sourcePoint" />
+            <mxPoint x="220" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="4fv0T7YaDPXyuP-KSVoV-3" target="4fv0T7YaDPXyuP-KSVoV-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="106.67000000000007" y="180" as="sourcePoint" />
+            <mxPoint x="210" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="4fv0T7YaDPXyuP-KSVoV-22" target="4fv0T7YaDPXyuP-KSVoV-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="106.67000000000007" y="230" as="sourcePoint" />
+            <mxPoint x="220" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="4fv0T7YaDPXyuP-KSVoV-23" target="4fv0T7YaDPXyuP-KSVoV-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="106.67000000000007" y="280" as="sourcePoint" />
+            <mxPoint x="220" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;sketch=1;" edge="1" parent="1" source="4fv0T7YaDPXyuP-KSVoV-24" target="4fv0T7YaDPXyuP-KSVoV-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="106.67000000000007" y="330" as="sourcePoint" />
+            <mxPoint x="220" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-35" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;Monitoring data from 6 landscapes is entered into the programme&#39;s online Result Management System (RMS)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-36" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad7inch;strokeColor=#000000;sketch=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="414" width="50" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.512;exitY=-0.019;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;sketch=1;" edge="1" parent="1" source="4fv0T7YaDPXyuP-KSVoV-36" target="4fv0T7YaDPXyuP-KSVoV-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.00299999999993" y="370" as="sourcePoint" />
+            <mxPoint x="330" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-38" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;Data from customed instrumentsto follow-up progress is integrated into the RMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-39" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="700" y="100" width="124.73" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;" edge="1" parent="1" source="4fv0T7YaDPXyuP-KSVoV-28" target="4fv0T7YaDPXyuP-KSVoV-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225.5999999999999" y="422.57500000000005" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-41" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;The data from the RMS feeds a real time dashboard that allows tracking progress at different levels: thematic area, country, project, etc&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="20" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-42" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;The dashboard helps to:&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;* Track programme&#39;s progress,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;* Analyse the information to create qualitative tools,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;* Disseminate results,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;* Ongoingly report against the programme&#39;s logframe.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4fv0T7YaDPXyuP-KSVoV-43" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;" edge="1" parent="1" source="4fv0T7YaDPXyuP-KSVoV-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="240" as="sourcePoint" />
+            <mxPoint x="810" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
